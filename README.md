@@ -1,1 +1,3 @@
-# mat_manager
+# maven-project
+
+Simple Maven Project
